@@ -1,6 +1,6 @@
 {
   "name": "exception-generator",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Exception class generator for Artus.js",
   "author": "noahziheng",
   "bin": {

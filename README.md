@@ -1,6 +1,8 @@
 artus-exception-generator
 =================
 
+> ⚠️ NOTICE!!! The project is experimental and Working-In-Process, DON'T use it in production!
+
 Exception Generator CLI created by Artus WG.
 
 [![oclif](https://img.shields.io/badge/cli-oclif-brightgreen.svg)](https://oclif.io)

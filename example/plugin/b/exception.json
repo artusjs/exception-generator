@@ -1,0 +1,6 @@
+{
+  "PLUGIN_B:TEST": {
+    "desc": "This is a test error",
+    "detailUrl": "https://github.com/artusjs"
+  }
+}

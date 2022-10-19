@@ -1,0 +1,60 @@
+{
+  "default": {
+    "pluginConfig": {
+      "b": {
+        "enable": true,
+        "path": "plugin/b"
+      },
+      "a": {
+        "enable": true,
+        "path": "plugin/a"
+      }
+    },
+    "items": [
+      {
+        "path": "framework/exception",
+        "extname": ".json",
+        "filename": "exception.json",
+        "loader": "exception",
+        "source": "framework",
+        "loaderState": {
+          "exportNames": []
+        },
+        "unitName": "/Users/bytedance/Code/github.com/artusjs/exception-generator/example/framework"
+      },
+      {
+        "path": "plugin/b/exception",
+        "extname": ".json",
+        "filename": "exception.json",
+        "loader": "exception",
+        "source": "plugin",
+        "loaderState": {
+          "exportNames": []
+        },
+        "unitName": "b"
+      },
+      {
+        "path": "plugin/a/exception",
+        "extname": ".json",
+        "filename": "exception.json",
+        "loader": "exception",
+        "source": "plugin",
+        "loaderState": {
+          "exportNames": []
+        },
+        "unitName": "a"
+      },
+      {
+        "path": "exception",
+        "extname": ".json",
+        "filename": "exception.json",
+        "loader": "exception",
+        "source": "app",
+        "loaderState": {
+          "exportNames": []
+        }
+      }
+    ],
+    "relative": true
+  }
+}
